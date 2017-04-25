@@ -21,8 +21,7 @@ PRODUCT_PACKAGES += \
     ims \
     RCSBootstraputil \
     RcsImsBootstraputil \
-    TimeService \
-    Tycho 
+    TimeService
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
@@ -42,8 +41,7 @@ PRODUCT_PACKAGES += \
     DiagMon \
     DMConfigUpdate \
     DMService \
-    GCS \
-    HotwordEnrollment \
+    GoogleHotwordEnrollment \
     LifeTimerService \
     qcrilmsgtunnel \
     SprintDM
